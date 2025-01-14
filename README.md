@@ -6,7 +6,7 @@ Utilidades:
 
 pulseaudio 
 
-[Passhole](https://github.com/Evidlo/passhole)
+[passhole](https://github.com/Evidlo/passhole)
 
 wofi
 
